@@ -101,7 +101,7 @@ header button {
   background-color: var(--yellow);
 }
 
-.Items button.remove {
+.Items button.remove  {
   background-color: var(--magenta);
   color: white;
 }
